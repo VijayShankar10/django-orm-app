@@ -59,7 +59,7 @@ class StudentAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![OUTPUT](out.png)
+![OUTPUT](./out.png)
 
 
 ## RESULT
