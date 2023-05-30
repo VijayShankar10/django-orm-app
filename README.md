@@ -60,6 +60,8 @@ class StudentAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![OUTPUT](./out.png)
+![out](https://github.com/VijayShankar10/django-orm-app/assets/121999019/8ffc1093-4433-4406-983f-f6e0ec89dadb)
+
 
 
 ## RESULT
